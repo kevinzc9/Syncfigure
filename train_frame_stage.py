@@ -15,6 +15,7 @@ from datasets.frame_training_datasets import SyncfigureDataset
 from models.VGG19 import Vgg19
 from sync_batchnorm import convert_model
 from utils.training_utils import GANLoss, get_scheduler, update_learning_rate
+import torch.nn.functional as F
 
 
 
