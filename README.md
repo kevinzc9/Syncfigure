@@ -1,6 +1,5 @@
 # Syncfigure
 A Project for generating vivid sync figure
-59 key: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
 ## TO DO
 1.replace the deepspeech module(now we use the combination of wav2vec and deepspeech)
 this process are only used for inference 
